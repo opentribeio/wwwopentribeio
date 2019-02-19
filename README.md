@@ -13,3 +13,10 @@ Experimentation around direct democracy and other ways to improve politics with 
 This repo contains the front and back end for https://www.opentribe.io and is used as main source of collaboration between members.
 
 For contact and interest in contrib. email: mazone@gmail.com
+
+
+## Showcase
+
+
+![alt text](assets/index.png "index")
+![alt text](assets/profile.png "profile")

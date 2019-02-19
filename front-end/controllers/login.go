@@ -137,6 +137,9 @@ func Profile(w http.ResponseWriter, r *http.Request) {
 		data.Data[i].Avg = d.Data[i].Avg
 	}
 
-	tmpl, _ := template.ParseFiles("html/profile.html")
+	tmpl, err := template.ParseFiles("html/profile.html")
+	if err != nil {
+		fmt.Print(err)
+	}
 	tmpl.Execute(w, data)
 }
