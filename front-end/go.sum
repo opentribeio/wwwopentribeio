@@ -1,0 +1,4 @@
+github.com/gorilla/http v0.0.0-20180526232503-732371cf4733 h1:XP4dudjlxzadyN7vy99RS0wKby/Kkcp4Ejnl7eE7HPY=
+github.com/gorilla/http v0.0.0-20180526232503-732371cf4733/go.mod h1:7SoxxYlLs8XfoT5AXYy1WWMqjg3iaA9gZblNHzXQDqo=
+github.com/gorilla/mux v1.7.0 h1:tOSd0UKHQd6urX6ApfOn4XdBMY6Sh1MfxV3kmaazO+U=
+github.com/gorilla/mux v1.7.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
